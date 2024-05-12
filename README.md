@@ -20,7 +20,7 @@ I try to improve myself everyday, and learn things the hard way
 ##### My ALX Africa software engineering certificate:
 ![certificate](./certificate-amine-alaoui.png)
 
-**Huge shoutout to the amazing students and staff at Cohort-13 ❤️, you have been so helpful and never deny helping anyone, even it times of the final exams 🙏**
+**Huge shoutout to the amazing students and staff at Cohort-13 ❤️, you have been so helpful and never deny helping anyone, even at times of the final exams 🙏**
 
 ##### My Final Exams projects of each semester in ALX:
 
